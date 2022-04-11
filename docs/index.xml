@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolio</title>
+    <link>https://tomoki52.github.io/portfolio/</link>
+    <description>Recent content on Portfolio</description>
+    <image>
+      <url>https://tomoki52.github.io/portfolio/profile.png</url>
+      <link>https://tomoki52.github.io/portfolio/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tomoki52.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Works</title>
+      <link>https://tomoki52.github.io/portfolio/works/</link>
+      <pubDate>Tue, 12 Apr 2022 01:31:35 +0900</pubDate>
+      
+      <guid>https://tomoki52.github.io/portfolio/works/</guid>
+      <description>ディジコン制作展2021 -Beyond Internet- 「a second」
+ https://digicon.mast.tsukuba.ac.jp/  </description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://tomoki52.github.io/portfolio/profile/</link>
+      <pubDate>Tue, 12 Apr 2022 01:16:02 +0900</pubDate>
+      
+      <guid>https://tomoki52.github.io/portfolio/profile/</guid>
+      <description>About 筑波大学情報学群情報メディア創成学類4年 IPLAB所属
+Skills  アジャイル開発 Django Processing  Experiences  2021/11- 合同会社カフェラテ  バイナリオプション取引ツール 京都大学 QALAM雑誌記事データベース Django移行業務 その他マネジメント業務    Achievements  2021年第9回技育CAMPハッカソン 努力賞  </description>
+    </item>
+    
+  </channel>
+</rss>
