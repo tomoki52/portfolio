@@ -19,8 +19,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: Portfolio | Tomoki Konishi
+    description: "profile, works, and more"
     keywords: [Blog, Portfolio, PaperMod]
     author: Tomoki Konishi
     # author: ["Me", "You"] # multiple authors
