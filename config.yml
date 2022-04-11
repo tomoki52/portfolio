@@ -1,4 +1,4 @@
-baseURL: "https://tomoki52.github.io/portfolio/"
+baseURL: "https://tomoki52.github.io/"
 canonifyurls: true
 publishDir: "docs"
 title: Portfolio
@@ -110,11 +110,11 @@ menu:
     main:
         - identifier: profile
           name: profile
-          url: /profile/
+          url: /portfolio/profile/
           weight: 10
         - identifier: works
           name: works
-          url: /works/
+          url: /portfolio/works/
           weight: 20
         - identifier: example
           name: example.org
