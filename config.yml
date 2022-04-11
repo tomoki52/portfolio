@@ -114,7 +114,7 @@ menu:
           weight: 10
         - identifier: works
           name: works
-          url: /works/
+          url: works/
           weight: 20
         - identifier: example
           name: example.org
