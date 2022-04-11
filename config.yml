@@ -110,11 +110,11 @@ menu:
     main:
         - identifier: profile
           name: profile
-          url: /portfolio/profile/
+          url: profile/
           weight: 10
         - identifier: works
           name: works
-          url: /portfolio/works/
+          url: /works/
           weight: 20
         - identifier: example
           name: example.org
