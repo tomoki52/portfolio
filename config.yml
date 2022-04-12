@@ -73,8 +73,8 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/tm____k_"
+        #- name: twitter
+        #  url: "https://twitter.com/tm____k_"
         - name: github
           url: "https://github.com/tomoki52"
 
@@ -116,7 +116,7 @@ menu:
           name: works
           url: works/
           weight: 20
-          
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
