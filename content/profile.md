@@ -11,10 +11,15 @@ draft: false
 * Django
 * Processing
 
+## Hobby
+* ベース、ギター、ピアノ
+
+* DTM 
+
 ## Experiences
 * 2021/11- 合同会社カフェラテ
     * バイナリオプション取引ツール
     * 京都大学 QALAM雑誌記事データベース Django移行業務
     * その他マネジメント業務
 ## Achievements
-* 2021年第9回技育CAMPハッカソン 努力賞
+* 2021年第9回技育CAMPハッカソン 履歴をグラフで表示できるChorme拡張機能「Tree History」 努力賞
