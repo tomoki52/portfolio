@@ -23,4 +23,6 @@ draft: false
     * LINEbot作成
     * その他マネジメント業務
 ## Achievements
-* 2021年第9回技育CAMPハッカソン 履歴をグラフで表示できるChorme拡張機能「Tree History」 努力賞
+* 2021年第9回技育CAMPハッカソン 履歴をグラフで表示できるChorme拡張機能「Tree History」 努力賞受賞
+* 2022年第4回技育CAMPハッカソン 本をめくる動画から文字起こしをするWebアプリ「パラスキャン」 努力賞受賞
+  
