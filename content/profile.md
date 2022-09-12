@@ -13,7 +13,6 @@ draft: false
 
 ## Hobby
 * ベース、ギター、ピアノ
-
 * DTM 
 
 ## Experiences
@@ -22,6 +21,8 @@ draft: false
     * 京都大学 雑誌記事データベース PHPからDjango移行
     * LINEbot作成
     * その他マネジメント業務
+* 2021/09/05-2022/09/06 株式会社ゆめみ インターン
+  * Laravelを用いたAPI開発
 ## Achievements
 * 2021年第9回技育CAMPハッカソン 履歴をグラフで表示できるChorme拡張機能「Tree History」 努力賞受賞
 * 2022年第4回技育CAMPハッカソン 本をめくる動画から文字起こしをするWebアプリ「パラスキャン」 努力賞受賞
