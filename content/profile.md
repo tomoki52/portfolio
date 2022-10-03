@@ -9,6 +9,7 @@ draft: false
 ## Skills
 * アジャイル開発
 * Django
+* github
 * Processing
 
 ## Hobby
@@ -18,7 +19,7 @@ draft: false
 ## Experiences
 * 2021/11- 合同会社カフェラテ
     * バイナリオプション取引ツール
-    * 京都大学 雑誌記事データベース PHPからDjango移行
+    * 京都大学 雑誌記事データベース PHPからDjangoへの移行案件
     * LINEbot作成
     * その他マネジメント業務
 * 2021/09/05-2022/09/06 株式会社ゆめみ インターン
