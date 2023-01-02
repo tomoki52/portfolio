@@ -10,7 +10,7 @@ draft: false
 ### 国内学会（査読なし）
 #### 情報処理学会研究報告（HCI-201）
 
-* アクティブ音響センシングを用いた手指の関節角度推定  
+* アクティブ音響センシングを用いた手指の関節角度推定（発表予定）  
   __小西智樹__，角田陸，國分晴利，久保勇貴，志築文太郎  
 
 ## 🏆Achievements
@@ -33,6 +33,8 @@ draft: false
 ## 🖌️Works
 * ディジコン制作展2021 -Beyond Internet- 「a second」  
   https://digicon.mast.tsukuba.ac.jp/
+* ACM Digital Libraryの論文をscrapboxにいい感じにフォーマットして登録するChrome拡張機能（審査中）  
+  https://github.com/tomoki52/scrap-paper-chrome-extention
 <!--
 ## 🖥Skills
 * アジャイル開発
