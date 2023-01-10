@@ -32,9 +32,10 @@ draft: false
 * Laravelを用いたAPI開発
 ## 🖌️Works
 * ディジコン制作展2021 -Beyond Internet- 「a second」  
-  https://digicon.mast.tsukuba.ac.jp/
-* ACM Digital Libraryの論文をscrapboxにいい感じにフォーマットして登録するChrome拡張機能（審査中）  
-  https://github.com/tomoki52/scrap-paper-chrome-extention
+  * https://digicon.mast.tsukuba.ac.jp/
+* ACM Digital Libraryの論文をscrapboxにいい感じにフォーマットして登録するChrome拡張機能「Scrap Paper」  
+  * [chromeウェブストア](https://chrome.google.com/webstore/detail/scrap-paper/cgkgikddogobbaakbmbjphgipgfbkbdo)
+  * [GitHub](https://github.com/tomoki52/scrap-paper-chrome-extention)
 <!--
 ## 🖥Skills
 * アジャイル開発
