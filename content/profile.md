@@ -4,34 +4,44 @@ date: 2022-04-12T01:16:02+09:00
 draft: false
 ---
 ## 😃About
-筑波大学情報学群情報メディア創成学類4年 IPLAB所属  
+筑波大学情報学群情報メディア創成学類4年 [IPLAB](https://www.iplab.cs.tsukuba.ac.jp/)所属  
+
+---
 
 ## 🎓Publications
 ### 国内学会（査読なし）
 
-* アクティブ音響センシングを用いた手指の関節角度推定  
+* [アクティブ音響センシングを用いた手指の関節角度推定](http://id.nii.ac.jp/1001/00223223/)  
   __小西智樹__，角田陸，國分晴利，久保勇貴，志築文太郎  
   情報処理学会研究報告（HCI-201），情報処理学会，2023年1月，5pages．  
-  [paper]( http://id.nii.ac.jp/1001/00223223/)
 
+---
 
 ## 🏆Achievements
+### ハッカソン
 #### 株式会社サポーターズ主催 2021年第9回技育CAMPハッカソン 
 * 履歴をグラフで表示できるChorme拡張機能「Tree History」 **努力賞**
 #### 株式会社サポーターズ主催 2022年第4回技育CAMPハッカソン 
   * 本をめくる動画から文字起こしをするWebアプリ「パラスキャン」 **努力賞**
 #### 株式会社サポーターズ主催 2022年技育展 開発・スキル支援部門 
   * 本をめくる動画から文字起こしをするWebアプリ「パラスキャン」 **優秀賞**  
-    https://talent.supporterz.jp/geekten/2022/exhibition.html#theme14
+    * https://talent.supporterz.jp/geekten/2022/exhibition.html#theme14
   
+---
+
 ## 👨‍💻Experiences
+### アルバイト
 #### 2021/11- 合同会社カフェラテ
 * バイナリオプション取引ツール
 * 京都大学 雑誌記事データベース PHPからDjangoへの移行案件
 * LINEbot作成
 * その他マネジメント業務
+### インターン
 #### 2022/09/05-2022/09/16 株式会社ゆめみ インターン
 * Laravelを用いたAPI開発
+
+---
+
 ## 🖌️Works
 * ディジコン制作展2021 -Beyond Internet- 「a second」  
   * https://digicon.mast.tsukuba.ac.jp/
