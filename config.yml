@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Tomoki Konishi
-    subtitle: University of Tsukuba iplab B4
+    subtitle: University of Tsukuba iplab M1
     imageUrl: "profile1.png"
     imageWidth: 120
     imageHeight: 120
@@ -72,8 +72,6 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    #- name: twitter
-    #  url: "https://twitter.com/tm____k_"
     - name: github
       url: "https://github.com/tomoki52"
 
