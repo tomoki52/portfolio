@@ -1,7 +1,7 @@
 baseURL: "https://tomoki52.github.io/portfolio/"
 canonifyurls: true
 publishDir: "docs"
-title: Portfolio
+title: Portfolio | Tomoki Konishi
 paginate: 5
 theme: PaperMod
 
@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "profile1.png"
+    favicon16x16: "profile1.png"
+    favicon32x32: "profile1.png"
+    apple_touch_icon: "profile1.png"
+    safari_pinned_tab: "profile1.svg"
 
   label:
     text: "Home"
@@ -77,11 +77,11 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "portfolio"
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "portfolio"
     yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "portfolio"
 
   cover:
     hidden: true # hide everywhere but not in structured data
