@@ -101,7 +101,7 @@ export default function Home() {
                 href="https://talent.supporterz.jp/geekten/2022/exhibition.html#theme14"
                 className="underline"
               >
-                https://talent.supporterz.jp/geekten/2022/exhibition.html#theme14
+                技育展2022 特設展示ページ - 株式会社サポーターズ
               </Link>
             </p>
           </li>
@@ -116,7 +116,8 @@ export default function Home() {
                 href="https://civicpower.jp/report/289/"
                 className="underline"
               >
-                https://civicpower.jp/report/289/
+                【report #103】アフターコロナ×AI Hackathon -
+                株式会社しびっくぱわー
               </Link>
             </p>
           </li>
