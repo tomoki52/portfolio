@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .line {
+    @apply flex items-center  mx-auto border-b pb-10 mb-10 border-gray-400 sm:flex-row flex-col;
+  }
+  .section-title {
+    @apply text-gray-900 text-3xl  font-medium mb-4;
+  }
+  .section-subtitle {
+    @apply text-gray-900 text-xl font-medium mb-4;
+  }
+  .list-container {
+    @apply flex-grow sm:text-left text-center mt-6 sm:mt-0;
+  }
+}

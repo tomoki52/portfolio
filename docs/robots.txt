@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://tomoki52.github.io/portfolio/sitemap.xml
