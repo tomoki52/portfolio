@@ -1,10 +1,28 @@
 import Link from "next/link";
 import React from "react";
 import "remixicon/fonts/remixicon.css";
+import Head from "next/head";
+
+function CommonMeta({
+  title = "Tomoki Konishi's Portfolio",
+  description = "This is Tomoki Konishi's Portfolio.",
+}) {
+  return (
+    <Head>
+      <title>{title}</title>
+      <meta property="description" content={description} />
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={description} />
+      <meta property="og:image" content={`https://github.com/tomoki52.png`} />
+      <link rel="icon" href="https://github.com/tomoki52.png" />
+    </Head>
+  );
+}
 
 export default function Home() {
   return (
     <main className="container mx-auto w-2/3  flex-col">
+      <CommonMeta />
       <Top />
       <div className="container  py-24 text-gray-600">
         <div className="line" />
