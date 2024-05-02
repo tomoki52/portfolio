@@ -184,7 +184,8 @@ function Top() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
             小西智樹
-            <br />
+          </h1>
+          <h1 className="title-font  text-3xl mb-4 font-medium text-gray-900">
             Tomoki Konishi
           </h1>
           <Link href="https://github.com/tomoki52">

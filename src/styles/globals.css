@@ -13,6 +13,9 @@
     @apply text-gray-900 text-xl font-medium mb-4;
   }
   .list-container {
-    @apply flex-grow sm:text-left text-center mt-6 sm:mt-0;
+    @apply flex-grow text-left mt-6 sm:mt-0;
+  }
+  p {
+    @apply sm:text-lg text-sm;
   }
 }
