@@ -93,6 +93,29 @@ export default function Home() {
               1月15-16日，2024，沖縄，情報処理学会，8pages．
             </p>
           </li>
+          <li className="mb-8">
+            <p className="font-bold">
+              ドアノブの握り方に基づくアクティブ音響センシングを用いた個人認証システムの検討
+            </p>
+            <p>
+              <span className="underline">小西智樹</span>
+              ，崔明根，雨坂宇宙，志築文太郎．
+              情報処理学会研究報告，Vol.2024-HCI-209，No.1，
+              7月22-23日，2024，北海道，情報処理学会，7pages．
+            </p>
+          </li>
+          <li className="mb-8">
+            <p className="font-bold">
+              複数の自己発電可能な圧電センサを取り付けたウェアラブルデバイスによる肘関節の動作分類
+            </p>
+            <p>
+              折居篤，
+              <span className="underline">小西智樹</span>
+              ，崔明根，志築文太郎．
+              情報処理学会研究報告，Vol.2024-HCI-209，No.2，
+              7月22-23日，2024，北海道，情報処理学会，8pages．
+            </p>
+          </li>
         </Section>
         <div className="line"></div>
         <Section title="Achievements">
