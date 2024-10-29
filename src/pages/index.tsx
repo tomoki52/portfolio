@@ -42,22 +42,49 @@ export default function Home() {
         <Section title="Publications">
           <li className="mb-8">
             <p className="font-bold">
-              アクティブ音響センシングを用いた手指の関節角度推定
+              Active Acoustic Sensing Based Authentication System Using a Door
+              Handle
             </p>
             <p>
-              <span className="underline">小西智樹</span>，
-              角田陸，國分晴利，久保勇貴，志築文太郎．
-              情報処理学会研究報告，Vol.2024-HCI-201，No.21，1月16-17日，
-              2023，沖縄，情報処理学会，8pages．
+              <span className="underline">Tomoki Konishi</span>, Myungguen Choi,
+              Buntarou Shizuki. <br />
+              MUM &apos;24: Proceedings of the 23nd International Conference on
+              Mobile and Ubiquitous Multimedia, December 1-4, 2024, Stockholm,
+              Sweden, 10pages (To appear).
+            </p>
+          </li>
+          <li className="mb-8">
+            <p className="font-bold">
+              ドアノブの握り方に基づくアクティブ音響センシングを用いた個人認証システムの検討
             </p>
             <p>
-              link: &nbsp;
-              <Link
-                href="http://id.nii.ac.jp/1001/00223223/"
-                className="underline"
-              >
-                http://id.nii.ac.jp/1001/00223223/
-              </Link>
+              <span className="underline">小西智樹</span>
+              ，崔明根，雨坂宇宙，志築文太郎．
+              情報処理学会研究報告，Vol.2024-HCI-209，No.1，
+              7月22-23日，2024，北海道，情報処理学会，7pages．
+            </p>
+          </li>
+          <li className="mb-8">
+            <p className="font-bold">
+              複数の自己発電可能な圧電センサを取り付けたウェアラブルデバイスによる肘関節の動作分類
+            </p>
+            <p>
+              折居篤，
+              <span className="underline">小西智樹</span>
+              ，崔明根，志築文太郎．
+              情報処理学会研究報告，Vol.2024-HCI-209，No.2，
+              7月22-23日，2024，北海道，情報処理学会，8pages．
+            </p>
+          </li>
+          <li className="mb-8">
+            <p className="font-bold">
+              スマートフォンを用いたAR環境における片手用空中キーボードの性能調査
+            </p>
+            <p>
+              佐藤玲生，
+              <span className="underline">小西智樹</span>，志築文太郎．
+              情報処理学会研究報告，Vol.2024-HCI-206，No.4，
+              1月15-16日，2024，沖縄，情報処理学会，8pages．
             </p>
           </li>
           <li className="mb-8">
@@ -84,36 +111,22 @@ export default function Home() {
           </li>
           <li className="mb-8">
             <p className="font-bold">
-              スマートフォンを用いたAR環境における片手用空中キーボードの性能調査
+              アクティブ音響センシングを用いた手指の関節角度推定
             </p>
             <p>
-              佐藤玲生，
-              <span className="underline">小西智樹</span>，志築文太郎．
-              情報処理学会研究報告，Vol.2024-HCI-206，No.4，
-              1月15-16日，2024，沖縄，情報処理学会，8pages．
-            </p>
-          </li>
-          <li className="mb-8">
-            <p className="font-bold">
-              ドアノブの握り方に基づくアクティブ音響センシングを用いた個人認証システムの検討
+              <span className="underline">小西智樹</span>，
+              角田陸，國分晴利，久保勇貴，志築文太郎．
+              情報処理学会研究報告，Vol.2024-HCI-201，No.21，1月16-17日，
+              2023，沖縄，情報処理学会，8pages．
             </p>
             <p>
-              <span className="underline">小西智樹</span>
-              ，崔明根，雨坂宇宙，志築文太郎．
-              情報処理学会研究報告，Vol.2024-HCI-209，No.1，
-              7月22-23日，2024，北海道，情報処理学会，7pages．
-            </p>
-          </li>
-          <li className="mb-8">
-            <p className="font-bold">
-              複数の自己発電可能な圧電センサを取り付けたウェアラブルデバイスによる肘関節の動作分類
-            </p>
-            <p>
-              折居篤，
-              <span className="underline">小西智樹</span>
-              ，崔明根，志築文太郎．
-              情報処理学会研究報告，Vol.2024-HCI-209，No.2，
-              7月22-23日，2024，北海道，情報処理学会，8pages．
+              link: &nbsp;
+              <Link
+                href="http://id.nii.ac.jp/1001/00223223/"
+                className="underline"
+              >
+                http://id.nii.ac.jp/1001/00223223/
+              </Link>
             </p>
           </li>
         </Section>
