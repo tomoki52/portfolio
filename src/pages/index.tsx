@@ -49,8 +49,17 @@ export default function Home() {
               <span className="underline">Tomoki Konishi</span>, Myungguen Choi,
               Buntarou Shizuki. <br />
               MUM &apos;24: Proceedings of the 23nd International Conference on
-              Mobile and Ubiquitous Multimedia, December 1-4, 2024, Stockholm,
-              Sweden, 10pages (To appear).
+              Mobile and Ubiquitous Multimedia, pp.324-330, December 1-4, 2024,
+              Stockholm, Sweden.
+            </p>
+            <p>
+              link: &nbsp;
+              <Link
+                href="https://doi.org/10.1145/3701571.3701587"
+                className="underline"
+              >
+                https://doi.org/10.1145/3701571.3701587
+              </Link>
             </p>
           </li>
           <li className="mb-8">
@@ -60,6 +69,7 @@ export default function Home() {
             <p>
               <span className="underline">小西智樹</span>
               ，崔明根，雨坂宇宙，志築文太郎．
+              <br />
               情報処理学会研究報告，Vol.2024-HCI-209，No.1，
               7月22-23日，2024，北海道，情報処理学会，7pages．
             </p>
@@ -72,6 +82,7 @@ export default function Home() {
               折居篤，
               <span className="underline">小西智樹</span>
               ，崔明根，志築文太郎．
+              <br />
               情報処理学会研究報告，Vol.2024-HCI-209，No.2，
               7月22-23日，2024，北海道，情報処理学会，8pages．
             </p>
@@ -83,6 +94,7 @@ export default function Home() {
             <p>
               佐藤玲生，
               <span className="underline">小西智樹</span>，志築文太郎．
+              <br />
               情報処理学会研究報告，Vol.2024-HCI-206，No.4，
               1月15-16日，2024，沖縄，情報処理学会，8pages．
             </p>
@@ -94,17 +106,19 @@ export default function Home() {
             <p>
               折居篤，
               <span className="underline">小西智樹</span>， 志築文太郎．
+              <br />
               第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS2023），
               11月29-12月1日，2023，山梨，日本ソフトウェア科学会， 3pages．
             </p>
           </li>
           <li className="mb-8">
             <p className="font-bold">
-              VR環境におけるフリック入力を利用した低オクルージョンなQWERTYキーボードの実装
+              片手用空中キーボードのスレートデバイスAR空間上への構築
             </p>
             <p>
               佐藤玲生，
               <span className="underline">小西智樹</span>，志築文太郎．
+              <br />
               第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS2023），
               11月29-12月1日，2023，山梨，日本ソフトウェア科学会， 3pages．
             </p>
@@ -116,6 +130,7 @@ export default function Home() {
             <p>
               <span className="underline">小西智樹</span>，
               角田陸，國分晴利，久保勇貴，志築文太郎．
+              <br />
               情報処理学会研究報告，Vol.2024-HCI-201，No.21，1月16-17日，
               2023，沖縄，情報処理学会，8pages．
             </p>
