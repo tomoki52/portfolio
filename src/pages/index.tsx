@@ -219,13 +219,69 @@ export default function Home() {
         <SectionTitle title="Experiences" />
         <Section>
           <li className="mb-8">
-            <p className="font-bold">
-              2021/11~ 合同会社カフェラテ（アルバイト バックエンドエンジニア）
+            <p>
+              2021/11~
+              <br />
+              <span className="font-bold">
+                合同会社カフェラテ（アルバイト バックエンドエンジニア）
+              </span>
             </p>
           </li>
           <li className="mb-8">
-            <p className="font-bold">
-              2022/09/05~2022/09/16 株式会社ゆめみ（インターン）
+            <p>
+              2022/04~2023/03
+              <br />
+              <span className="font-bold">
+                筑波大学 情報メディア実験A・B（enPiT） TA
+              </span>
+            </p>
+          </li>
+          <li className="mb-8">
+            <p>
+              2022/09/05~2022/09/16
+              <br />
+              <span className="font-bold">株式会社ゆめみ（インターン）</span>
+            </p>
+          </li>
+          <li className="mb-8">
+            <p>
+              2023/04~2023/07
+              <br />
+              <span className="font-bold">筑波大学 プログラム言語論 TA</span>
+            </p>
+          </li>
+          <li className="mb-8">
+            <p>
+              2023/04~2024/03
+              <br />
+              <span className="font-bold">
+                筑波大学 情報メディア実験A・B（enPiT） TA
+              </span>
+            </p>
+          </li>
+          <li className="mb-8">
+            <p>
+              2024/04~2024/07
+              <br />
+              <span className="font-bold">筑波大学 プログラム言語論 TA</span>
+            </p>
+          </li>
+          <li className="mb-8">
+            <p>
+              2024/09
+              <br />
+              <span className="font-bold">
+                筑波大学 ビジネスシステムデザイン基礎II（enPiT） TA
+              </span>
+            </p>
+          </li>
+          <li className="mb-8">
+            <p>
+              2024/10~2025/03
+              <br />
+              <span className="font-bold">
+                筑波大学 情報メディア実験B（enPiT） TA
+              </span>
             </p>
           </li>
         </Section>
